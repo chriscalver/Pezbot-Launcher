@@ -188,9 +188,7 @@
 
     End Sub
 
+    Private Sub lblMap_Click(sender As Object, e As EventArgs) Handles lblMap.Click
 
-
-
-
-
+    End Sub
 End Class
